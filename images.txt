@@ -32,3 +32,4 @@ dreamacro/clash-premium
 wiznote/wizserver                             
 p3terx/aria2-pro                              
 headscale/headscale
+jxxghp/moviepilot-v2
