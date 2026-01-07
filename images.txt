@@ -35,4 +35,4 @@ p3terx/aria2-pro
 headscale/headscale
 jxxghp/moviepilot-v2
 openlistteam/openlist
-gravityle/hyperms:0.05
+gravityle/hyperms:0.0.5
