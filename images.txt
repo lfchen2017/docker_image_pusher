@@ -20,7 +20,6 @@ tailscale/tailscale
 deluan/navidrome                              
 redis                                        
 authelia/authelia                             
-docker.lfchen.eu.org/portainer/portainer-ee  
 portainer/portainer-ee                        
 neilpang/acme.sh                              
 ghcr.io/wy580477/musicn-container             
