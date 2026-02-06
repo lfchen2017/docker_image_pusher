@@ -36,3 +36,4 @@ headscale/headscale
 jxxghp/moviepilot-v2
 openlistteam/openlist
 gravityle/hyperms:0.0.5
+qicfan/qmediasync:latest
