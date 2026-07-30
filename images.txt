@@ -1,1 +1,1 @@
-ghcr.io/metacubex/metacubexd-server
+vaultwarden/server:latest
