@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+linuxserver/fail2ban:latest
