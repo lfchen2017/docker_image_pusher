@@ -1,1 +1,1 @@
-linuxserver/fail2ban:latest
+linuxserver/swag:latest
